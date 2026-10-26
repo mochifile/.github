@@ -1,36 +1,23 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mochifile/mochifile/main/docs/design-system/assets/Logos/mochifile-symbol.svg" alt="" width="96">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochifile/mochifile/main/docs/design-system/assets/Logos/mochifile-wordmark-dark.png">
+  <img src="https://raw.githubusercontent.com/mochifile/mochifile/main/docs/design-system/assets/Logos/mochifile-wordmark-light.png" alt="Mochifile" width="320">
+</picture>
 
-<h1 align="center">Mochifile</h1>
+# Make it fit.
 
-<p align="center"><strong>Friendly, privacy-first file tools for everyone.</strong><br>
-Make your files fit, right in your browser. Your files never leave your device.</p>
+File tools for everyday jobs: the photo a form says is too big, the picture that will not upload. Add your file, choose what you need, download the result. It all happens in your browser, so your files stay on your device.
 
-<p align="center">
-  <a href="https://mochifile.com">mochifile.com</a>
-</p>
+**[mochifile.com](https://mochifile.com)**
 
 ---
 
-### What we build
+- **Private.** Files are processed on your device, not uploaded.
+- **Easy.** Plain words, clear messages, no account.
+- **Open.** The code is public under the AGPL-3.0.
+- **For everyone.** In English and Portuguese, made to work well on a phone.
 
-Simple tools for everyday file problems: the photo a form rejects for being too big, the video that will not send, the PDF that is too heavy for email. Built for people who have never heard the word "compression".
+Today there is one tool, [Compress an image](https://mochifile.com/compress-image/) to the size a form asks for. More are in development.
 
-**Available now:** [Compress image to a target size](https://mochifile.com/compress-image/) (20 KB, 50 KB, 100 KB or any limit you need).
-More tools are on the way.
+---
 
-### What makes it different
-
-- **Private by design.** Free tools run entirely in your browser. No upload, no copy kept on a server.
-- **Honest.** You always see the real result, and we tell you before anything ever leaves your device.
-- **For everyone.** Mobile first, accessible, and available in English and Portuguese, with more languages coming.
-- **Open core.** The tools and the site are open source under AGPL-3.0.
-
-### Contribute
-
-We welcome contributions from anywhere in the world.
-
-- Start with the main repository: [mochifile/mochifile](https://github.com/mochifile/mochifile)
-- Read the [contributing guide](https://github.com/mochifile/mochifile/blob/main/CONTRIBUTING.md) and look for issues labelled `good first issue`.
-- Found a security issue? Please email security@mochifile.com instead of opening an issue.
+The site and its tools live in [mochifile/mochifile](https://github.com/mochifile/mochifile). New tools, translations and fixes are welcome: start with the [contributing guide](https://github.com/mochifile/mochifile/blob/main/CONTRIBUTING.md). Please report security issues privately, as the [security policy](https://github.com/mochifile/mochifile/blob/main/SECURITY.md) explains.
