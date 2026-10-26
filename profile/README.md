@@ -1,23 +1,33 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochifile/mochifile/main/docs/design-system/assets/Logos/mochifile-wordmark-dark.png">
-  <img src="https://raw.githubusercontent.com/mochifile/mochifile/main/docs/design-system/assets/Logos/mochifile-wordmark-light.png" alt="Mochifile" width="320">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochifile/mochifile/main/docs/design-system/assets/Logos/mochifile-wordmark-dark.png">
+    <img src="https://raw.githubusercontent.com/mochifile/mochifile/main/docs/design-system/assets/Logos/mochifile-wordmark-light.png" alt="Mochifile" width="200">
+  </picture>
+</p>
 
-# Make it fit.
+<p align="center">
+  <a href="https://github.com/mochifile/mochifile/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mochifile/mochifile?style=flat-square&labelColor=1e1b2e&color=9b7bea" alt="License: AGPL-3.0"></a>
+  <a href="https://github.com/mochifile/mochifile"><img src="https://img.shields.io/badge/github-mochifile%2Fmochifile-9b7bea?style=flat-square&labelColor=1e1b2e" alt="Repository: mochifile/mochifile"></a>
+</p>
 
-File tools for everyday jobs: the photo a form says is too big, the picture that will not upload. Add your file, choose what you need, download the result. It all happens in your browser, so your files stay on your device.
+<br>
 
-**[mochifile.com](https://mochifile.com)**
+<p align="center">
+  Simple, private file tools that run in your browser.<br>
+  Add a file, choose what you need, download the result.
+</p>
 
----
+<p align="center">
+  <a href="https://mochifile.com">mochifile.com</a>
+</p>
 
-- **Private.** Files are processed on your device, not uploaded.
-- **Easy.** Plain words, clear messages, no account.
-- **Open.** The code is public under the AGPL-3.0.
-- **For everyone.** In English and Portuguese, made to work well on a phone.
+<br>
 
-Today there is one tool, [Compress an image](https://mochifile.com/compress-image/) to the size a form asks for. More are in development.
+Today there is one tool, [Compress an image](https://mochifile.com/compress-image/), to the size a form asks for. More tools are in development.
 
----
-
-The site and its tools live in [mochifile/mochifile](https://github.com/mochifile/mochifile). New tools, translations and fixes are welcome: start with the [contributing guide](https://github.com/mochifile/mochifile/blob/main/CONTRIBUTING.md). Please report security issues privately, as the [security policy](https://github.com/mochifile/mochifile/blob/main/SECURITY.md) explains.
+<pre>
+<a href="https://github.com/mochifile/mochifile">repository</a> ······ source code
+<a href="https://github.com/mochifile/mochifile#documentation">docs</a> ············· start here
+<a href="https://github.com/mochifile/mochifile/blob/main/CONTRIBUTING.md">contribute</a> ······ how to help
+<a href="https://github.com/mochifile/mochifile/blob/main/SECURITY.md">security</a> ······ how to report
+</pre>
