@@ -13,8 +13,8 @@
 <br>
 
 <p align="center">
-  Simple, private file tools that run in your browser.<br>
-  Add a file, choose what you need, download the result.
+  Simple, private file tools<br>
+  that run in your browser.
 </p>
 
 <p align="center">
